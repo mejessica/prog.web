@@ -1,0 +1,14 @@
+h1{
+    color: #008b8b;
+    letter-spacing: -1px ; /*espaçamento entre os caracteres*/
+    text-transform: capitalize;/*transformar a letra em: italico, maiusculo...*/
+    width: 650px;
+    text-shadow: 1px 1px 1px black;
+}
+.p1{
+    text-indent: 50px;
+    width: 650px;
+    text-align: justify;
+    font-size: 17px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
