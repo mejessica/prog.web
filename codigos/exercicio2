@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>listas</title:>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" href="exercicios.html">
+    </head>
+
+    <body>
+        <article>
+            <h1>listas</h1>
+            <h3>Pais</h3>
+            <p>
+                <ul>
+                    <li><a href="#">Silvia</a></li>
+                    <li><a href="#">Alessandro</a></li>
+                </ul>
+            </p>
+            <h3>Irmãos</h3>
+            <p>
+                <ul>
+                    <li><a href="#">Beatriz</a></li>
+                </ul>
+            </p>
+            <h3>Primos</h3>
+            <p>
+                <ul>
+                    <li><a href="#">Vinicíus</a></li>
+                    <li><a href="#">Camila</a></li>
+                </ul>
+            </p>
+            <h3>Cores fav</h3>
+            <p>
+                <ol>
+                    <li><a href="#">Laranja</a></li>
+                    <li><a href="#">Rosa</a></li>
+                    <li><a href="#">Azul bebê</a></li>
+                </ol>
+            </p>
+        </article>
+    </body>
+</html>
