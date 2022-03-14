@@ -1,0 +1,18 @@
+label, input[type=submit], input[type="text"], textarea /*todos estarão em blocos*/
+{
+    display: block;
+}
+textarea{
+    width: 300px;
+    height: 80px; /*\area de mandar texto*/
+}
+input[type=submit]{
+    background: #333333;
+    color: #ffffff;
+    cursor: pointer;
+    padding: 10px 20px;
+    border: 0; /*mudando  botao de enviar*/
+}
+input[type=submit]:hover{ /* mudar a cor quando passar o curso*/
+    background: #ff6600;
+}
