@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="formulario.css" media="screen">
+    <title>Cadastro</title>
+</head>
+<body>
+    <div class="campo">
+        <h1 id="título">Cadastro para meninas da informática</h1>
+        <p id="subtítulo">Complete suas informações</p>
+        <br>
+    </div>
+
+    <form> 
+        <fieldset class="grupo">
+            <div class="campo">
+                <label for="nome"><strong>Nome</strong></label>
+                <input type="text" nome="nome" id="id" required>
+            </div>
+            <div class="campo">
+                <label for="sobrenome"><strong>Sobrenome</strong></label>
+                <input type= "text" nome="sobrenome" id="sobrenome" required>
+            </div>
+        
+        </fieldset>
+
+        <div class="campo">
+            <label for="email"><strong>Email</strong></label>
+            <input type="email" name="email" id="email" required>
+        </div>
+        
+        <div class="campo"> 
+          <label><strong>Ano do curso</strong></label required>
+          <label> 
+              <input type="radio" nome="devweb" value="Primeiro ano"> Primeiro ano
+          </label>
+          <label> 
+              <input type="radio" name="devweb" value="Segundo ano"> Segundo ano
+          <label>
+              <input type="radio" name="devweb" value="Terceiro ano"> Terceiro ano
+          </label>
+          <label>
+              <input type="radio" name="devweb" value="Quarto ano"> Quarto ano
+          </label>
+          
+        </div>
+    <div class="campo"> 
+       <label for="Sua experiência em programação é de:"><strong>Sua experiência em programaçaõ é de:</strong></label required> 
+       <select id="experiência">
+           <option selected disabled value="">Selecionar</option>
+           <option>Nada</option>
+           <option>Básico</option>
+           <option>Médio</option>
+           <option>Alta</option>
+       </select>
+    </div>
+    
+    <fieldset class="grupo">
+        <div id="check">
+           <label for="Selecione quais destas linguagens de programação você conhece:"><strong>Selecione quais destas linguagens de programação você conhece:</strong></label> 
+           <br>
+           <br>
+           <input type="checkbox" id="linguagem1" name="linguagem1" value="Java">
+           <label for="tecnologia1">Java</label>
+           <input type="checkbox" id="linguagem2" name="linguagem2" value="JavaScript">
+           <label for="tecnologia2">JavaScript</label>
+           <input type="checkbox" id="linguagem3" name="linguagem3" value="Phyton">
+           <label for="tecnologia3">Phyton</label>
+           <input type="checkbox" id="linguagem4" name="linguagem4" value="C++">
+           <label for="tecnologia4">C++</label>
+           <input type="checkbox" id="linguagem5" name="linguagem5" value="C">
+           <label for="tecnologia5">C</label>
+           <input type="checkbox" id="linguagem6" name="linguagem6" value="C#">
+           <label for="tecnologia6">C#</label>
+           <input type="checkbox" id="linguagem7" name="linguagem7" value="PHP">
+           <label for="tecnologia7">PHP</label>
+           <input type="checkbox" id="linguagem8" name="linguagem8" value="Outra">
+           <label for="tecnologia8">Outra</label>
+           <input type="checkbox" id="linguagem9" name="linguagem9" value="Nenhuma">
+           <label for="tecnologia1">Nenhuma</label>
+        </div>
+    </fieldset>
+
+    <div class="campo">
+        <br>
+        <label for="Conte qual sua expectativa, interesse, motivação por este projeto:"><strong>Conte qual sua expectativa, interesse, motivação por este projeto:</strong></label>
+        <textarea rom="8" style="width: 26em" id="experiencia" name="esperiencia"></textarea>       
+    </div>
+     
+    <button class="botao" type="submit">Concluído</button>
+    </form>
+    
+</body>
+</html>
