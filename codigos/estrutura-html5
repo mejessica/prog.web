@@ -1,0 +1,33 @@
+<!doctype html> 
+<html> 
+    <head> 
+        <title>Título</title>
+        <meta charset="utf-8"/> 
+    </head>
+
+    <body> 
+        <header>
+            Topo do site + menus de navegação
+            <nav>Menu de navegação</nav>
+        </header>
+        <section>
+            <header><h1>Titúlo da seção</h1></header>
+            <p>Conteúdo da seção</p>
+            <footer>Rodapé da seção</footer>
+            Seção com conteúdos
+        </section>
+
+        <article>posts ou conteúdo da página
+            <h1>Título do artigo</h1>
+            <p>Conteúdo do artigo</p>      
+        </article>
+
+        <aside>Barra lateral
+            <h1>Título do artigo</h1>
+            <p>conteúdo do artigo</p>
+        </aside>
+        
+        <footer>Rodapé do site</footer>
+    </body>
+</html>
+
