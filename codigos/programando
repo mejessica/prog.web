@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>eu Jéssica Gelsdorf</title>
+        <meta charset="utf-8"/>
+        <meta name="keywords" content="teste, html, if, web, programando">
+        <meta name="author" content="Jéssica Gelsdor">
+        <link rel="stylesheet" href="exercicios.htlm">
+
+    </head>
+
+    <body>
+        <header>
+            <p style="color:lightblue">Programa web</p>
+        </header>
+        <nav>
+            <ul>
+                <li><a href="#">Exercicio1</a></li>
+                <li><a href="#">Exercicio2</a></li>
+                <li><a href="#">Exercicio3</a></li>
+                <li><a href="#">Exercicio4</a></li>
+                <li><a href="#">Exercicio5</a></li>
+            </ul>
+        </nav>
+
+        <aside>
+            <h1> Jéssica Gelsdorf</h1>
+            <h1>
+                <p style="color:cornflowerblue">Saudações</p> 
+            </h1>
+            <h1></h1>
+            <p>
+                <h3>
+                    <p style="color:lightsteelblue">Sou a Jéssica ou apenas Jé, tenho 17 anos.
+                        <br /> Meu primeiro contato com programação foi pelo técnico e desde estão,
+                        tenho gostado muito.
+                    </p> 
+                </h3>
+
+                <h1 class="link">contato</h1>
+                    
+                 <p><a href="https://www.instagram.com/" id="Instagram">Instagram</a></p>
+                
+                <div class="figure">
+                    <img src="img/eu.jpg"
+                    width="10%"
+                    height="10%">
+                    <title>eu Jéssica e meu dog Fred</title>
+                </div>
+
+                
+
+            </p>
+
+            <body>
+               
+                    <h1>Mais sobre mim</h1>
+                    <h3>Pais</h3>
+                    <p>
+                        <ul>
+                            <li>Silvia</li>
+                            <li>Alessandro</li>
+                        </ul>
+                    </p>
+                    <h3>Irmãos</h3>
+                    <p>
+                        <ul>
+                            <li>Beatriz<li>
+                        </ul>
+                    </p>
+                    <h3>Primos</h3>
+                    <p>
+                        <ul>
+                            <li>Vinicíus</li>
+                            <li>Camila</li>
+                        </ul>
+                    </p>
+                    <h3>Cores fav</h3>
+                    <p>
+                        <ol>
+                            <li style="color:chocolate">Laranja</li>
+                            <li style="color:lightpink">Rosa</li>
+                            <li style="color:lightblue">Azul bebê</li>
+                        </ol>
+                    </p>
+               
+            </body>
+
+        </aside>
+
+        <footer><p style="color:lightblue">Bolo de morango</p> </footer>
+    </body>
+</html>
