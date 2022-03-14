@@ -1,0 +1,27 @@
+<!doctype html> 
+<html> 
+    <head> 
+        <title>Trabalho com formulários</title>
+        <meta charset="utf-8"/> 
+        <link rel="stylesheet" type="text/css" href="estilo2.css"/>
+    </head>
+
+    <body> 
+        <form method="GET" action="contato.php"></form>
+    <!--get ou post. get envia as informações de modo que o nageador consiga mostrar no endereço. port evista escondida em background-->
+    <!--página que vai processar as informarmações-->
+        <form>
+            <label for="nome">Nome:</label> <!--etiquetas que identificam-->
+            <input id="nome" type="text" placeholder="Digite seu nome" name="nome"><!--campo de inclusao de dados em texto-->
+            <label for="nome">Você gostou do site?</label> 
+            <input type="radio" name="opcao" value="sim" checked="checked"> Sim <!--opção de marcação--> <!--manter um botão checado-->
+            <input type="radio" name="opcao" value="não"> Não
+            <label for="linguagem">Você quer aprender mais sobre:</label> 
+            <input type="checkbox" name="HTML">HTML <!--checkbox serve para marcar mais de uma caixa-->
+            <input type="checkbox" name="CSS">CSS
+            <textarea name="msg"></textarea>
+            <input type="submit" value="Enviar">
+        </form> 
+    </body>
+</html>
+
