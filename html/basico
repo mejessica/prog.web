@@ -1,0 +1,16 @@
+<!DOCTYPE html> <!--versao html5-->
+<html> <!--inicio, delimita o que sera apresentado na pagina-->
+    <head> <!--passa informaçoes para o navegador-->
+        <meta charset="utf-8"><!--define o codigo de caracteres, caracteres compreendido pelo navegador, codigo para computadores-->
+        <!--motores de busca acessam as informaçoes a respeito do conteudo da pagina-->
+        <title>pagina</title> <!--titulo da pagina-->
+    </head>
+    <body> <!--o que o usuario enxerga, estrutura a pagina-->
+        <h1>nome</h1> <!--titulo-->
+        <p>é isso aí</p><!--paragrafo-->
+    </body>
+    <a href="">clica</a><!--linkagem-->
+</html>
+<!--tag fazem a formataçao, organizaçao-->
+<p></p><!--elemento, tag-->
+<!--att = atributo = "valor"-->
