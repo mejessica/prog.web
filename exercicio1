@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Cidade do Litoral</title>
+        <meta charset = "utf-8"/>
+        
+    </head>
+    <body>
+        <h1>Torres</h1>
+        <ol>
+            <li><a href="https://torres.rs.gov.br/">Prefeitura</a></li> 
+            <li>Atividades</li>
+                <ol>
+                    <li>Pontos turísticos</li>
+                        <ol>
+                            <li>Local com fotos</li>
+                            <li>Local com 2 fotos</li>
+                            <li>Local com 3 fotos</li>
+                            <li>Local com n fotos</li>
+                        </ol>
+                    <li>Gastronomia</li>
+                        <ol>
+                            <li><a href ="ResturanteMirador.html">Restaurante Mirador</a></li>
+                            <li>Restaurante 1 com fotos</li>
+                            <li>Restaurante com n fotos</li>
+                        </ol>
+                    <li>Arte e Cultura & Eventos</li>
+                        <ol>
+                            <li>Museu com fotos</li>
+                            <li>Bares com fotos</li>
+                            <li>Feiras populares com fotos</li>
+                        </ol>
+                            
+                </ol>
+            <li>Dados e história do municipio</li> 
+                <ul>Fundação</ul>
+                <ul>População</ul>
+                <ul>Hospitais</ul>
+                <ul>Segurança pública</ul>
+                <ul>Iluminação pública</ul>
+                <ul>Saneamento básico</ul>
+        </ol>
+    </body>
+</html>
