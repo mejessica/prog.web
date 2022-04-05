@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Mirador</title>
+        <meta charset = "utf-8">
+    
+    </head>
+    <body>
+        <h1>Restaurante Mirador</h1>
+        <p>
+            <br />Uma palavra define o Mirador, o restaurante do Hotel Dunas em Torres: tradicional. 
+            <br />Os clássicos da praia aparecem em um cardápio, que segue o mesmo desde os anos 1980. 
+            <br />É conhecido por oferecer uma das melhores casquinhas de siri do mundo, além de um amplo menu de frutos do mar.
+            <br />No Dunas Praia Hotel (Rua Marechal Deodoro, 48)
+            <br />Fone: (51) 3664-1011
+            <br /><a href="https://www.instagram.com/dunas.praia.hotel/">@dunas.praia.hotel</a>
+            
+        </p>
+    </body>
+</html>
