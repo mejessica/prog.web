@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            h1{
+                color:aliceblue;
+                font-family:fantasy;
+                background-color:brown;
+            }
+            img{
+                opacity:0.6;
+                width: 50%;
+                height: 50%;
+            }
+            body{
+                background-color:chocolate;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Piratas</h1>
+        <img src="https://tm.ibxk.com.br/2021/11/03/03111209827132.jpg?ims=1200x675">
+    </body>
+</html>
