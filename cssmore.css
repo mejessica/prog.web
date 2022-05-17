@@ -1,0 +1,40 @@
+i{
+    color: white;
+}
+header, nav, section, article, footer, aside, div{
+    border: 1pt solid black;
+    padding: 2px;
+    margin:2px;
+}
+a{
+    color:mediumblue;
+}
+header, nav, footer{
+    background-color: coral;
+}
+section{
+    background-color: darkslategrey;
+}
+article{
+    background-color: white;
+}
+#conteudo{
+    background-color: coral;
+    height: 180px;
+}
+#esquerda{
+    float: left;
+    width: 76%;
+}
+aside, #esquerda{
+    background-color: wheat;
+}
+aside{
+    margin-left: 78%;
+}
+p, h1{
+    margin:1px;
+}
+body{
+    background-color: lightsteelblue;
+}
