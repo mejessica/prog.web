@@ -1,0 +1,13 @@
+p{
+    width: 150px;
+    height: 100px;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #20b2aa;
+    border-top: 2px, #87cefa, dashed;
+    border-left: 2px, #daa520, dotted;
+    border-bottom: 2px, #ff0000, double;
+    border-right: 0;
+    padding-top: 10px;
+    padding-left: 10px;
+}
