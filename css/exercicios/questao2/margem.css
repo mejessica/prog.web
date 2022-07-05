@@ -1,0 +1,18 @@
+#img1{
+    padding-left: 500px;
+}
+#img2{
+    padding-left: 735px;
+    padding-bottom: 300px;
+}
+#img3{
+    padding-left:950px;
+}
+
+#img5{
+    padding-left: 900px;
+}
+
+.box{
+    display: inline-block;
+}
